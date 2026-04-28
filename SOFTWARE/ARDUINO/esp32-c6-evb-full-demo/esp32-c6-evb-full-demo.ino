@@ -13,8 +13,9 @@
 // - LED: ACTIVE LOW
 // - Button: ACTIVE LOW (internal pull-up)
 // - Optocouplers: ACTIVE LOW (47k pull-up to 3.3V),
-// provide between 5V DC and 30V DC!
-// 
+// provide between 5V DC and 30V DC and be careful
+// with polarity!!!
+//
 // After downloading the demo, open the serial monitor
 // Ensure that "USB CDC On Boot" is Enabled
 // Refer to "arduino-settings.jpg" for tested settings
