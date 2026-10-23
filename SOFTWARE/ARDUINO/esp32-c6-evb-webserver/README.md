@@ -85,8 +85,4 @@ The optocoupler inputs are intended for 5–30 V DC and are polarity-sensitive. 
 
 This demonstration has no user authentication. The fallback access point is open, and anyone connected to the same network can operate the outputs. Use it only on a trusted test network, particularly when loads are attached to the relay contacts.
 
-## Reference
-
-Pin assignments and active levels were verified against Olimex's working Arduino demos at commit `7b66d23cabba3c573a1e63d83363675b5fb74f06`. See `REFERENCE_ANALYSIS.md`.
-
 License: GPL-3.0-or-later.
